@@ -42,8 +42,3 @@ let employee: {
 
 // employee.id = 3;
 
-function myAlert {
-	alert("Hello world");
-}
-
-
